@@ -17,7 +17,7 @@ https://www.youtube.com/@frontegg2663
         - [x] invite other users
         - [x] access audit logs
         - [ ] create m2m tokens https://portal.us.frontegg.com/development/authentication/m2m-tokens
-    - [ ] ii. The user should only be able to log in with a Magic Link.
+    - [ ] ii. The user should only be able to log in with a Magic Link. (Look at FAQs for why magic code is working and not magic link)
   
      
 
