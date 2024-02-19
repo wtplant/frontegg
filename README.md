@@ -3,7 +3,7 @@
 - Clone this repository
 - Account for all dependencies(such as vite `npm install vite`) 
 - from the project directory run `npm run dev` 
-- Once app is running navigate to [http://localhost:5173/ to login
+- Once app is running navigate to http://localhost:5173/ to login
 
 The following functionality has been provided for:
 
