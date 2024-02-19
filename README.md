@@ -1,6 +1,9 @@
 # frontegg
 
-Clone the repository, from the project directory, account for all dependencies, and run `npm run dev`. Once app is running navigate to `http://localhost:5174/` to login
+- Clone this repository
+- Account for all dependencies(such as vite `npm install vite`) 
+- from the project directory run `npm run dev`. 
+- Once app is running navigate to http://localhost:5174/ to login
 
 The following functionality has been provided for"
 
