@@ -5,7 +5,7 @@
 - from the project directory run `npm run dev` 
 - Once app is running navigate to http://localhost:5173/ to login
 
-The following functionality has been provided for:
+## The following functionality has been provided for:
 
 ### Basic Integration & Product exploration with Frontegg
 - [x] a. Following the onboarding,createa basic application in the Framework of your choosing (React, ~Angular, Vue, or Next~).
