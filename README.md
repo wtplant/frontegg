@@ -1,6 +1,6 @@
 # frontegg
 
-Clone the repository, from the project directory account for all dependencies and run `npm run dev`. Once app is running navigate to `http://localhost:5174/` to login
+Clone the repository, from the project directory, account for all dependencies, and run `npm run dev`. Once app is running navigate to `http://localhost:5174/` to login
 
 The following functionality has been provided for"
 
@@ -20,7 +20,7 @@ The following functionality has been provided for"
      #### Extras
     - [x] Add a functional logout button
      
-    - [ ] Uploadyourapplicationtogithub,makesureitispublic,andsendacopytoa link to the github with your response.
+  
   
   
      
