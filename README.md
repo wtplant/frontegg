@@ -1,5 +1,9 @@
 # frontegg
 
+ Frontegg is a "complete user identity and management solutions streamline user management across various identity providers while providing them with a seamless, branded signup and login experience."
+ Check out the docs [here](https://docs.frontegg.com/docs/home-page)
+
+ ## For this project: 
 - Clone this repository
 - Account for all dependencies(such as vite `npm install vite`) 
 - from the project directory run `npm run dev` 
@@ -8,7 +12,7 @@
 ## The following functionality has been provided for:
 
 ### Basic Integration & Product exploration with Frontegg
-- [x] a. Following the onboarding,createa basic application in the Framework of your choosing (React, ~Angular, Vue, or Next~).
+- [x] a. Following the onboarding,create a basic application in the Framework of your choosing (React, ~Angular, Vue, or Next~).
 - [x] b. Integrate Front egg into the application. At the endof the steps,you should have your app integrated with Frontegg login and authentication model, so you should be able to sign-up
 - [x] c. When a user is logged in, on the homepage of your application, make sure to display their profile picture and name.
 - [x] d. Add a“settings”button and implement the admin portal. Once added:
