@@ -9,7 +9,7 @@
 - from the project directory run `npm run dev` 
 - Once app is running navigate to http://localhost:5173/ to login
 
-## The following functionality has been provided for:
+## The following functionality has been provided for in this application:
 
 ### Basic Integration & Product exploration with Frontegg
 - [x] a. Following the onboarding,created a basic application in React
