@@ -15,7 +15,7 @@
 - [x] a. Following the onboarding,created a basic application in React
 - [x] b. Integrated Front egg into the application. At the end of this the app was integrated with the Frontegg login and authentication model, so users are able to sign-up
 - [x] c. When a user is logged in, on the homepage of this application they are able to display their profile picture and name.
-- [x] d. Added “settings”button and implement the admin portal. Once added:
+- [x] d. Added “settings”button and implemented the admin portal. Once added:
     - [x] Provided the ability to invite other users
     - [x] i. Users can:
         - [x] only view their info *(set users to read only access)*
@@ -23,7 +23,7 @@
         - [x] access audit logs
         - [x] create m2m tokens 
     - [x] ii. user are able to log in with a Magic Code.
-- [x]e. Added a functional logout button
+- [x] e. Added a functional logout button
      
   
   
