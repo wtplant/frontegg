@@ -12,20 +12,18 @@
 ## The following functionality has been provided for:
 
 ### Basic Integration & Product exploration with Frontegg
-- [x] a. Following the onboarding,create a basic application in the Framework of your choosing (React, ~Angular, Vue, or Next~).
-- [x] b. Integrate Front egg into the application. At the endof the steps,you should have your app integrated with Frontegg login and authentication model, so you should be able to sign-up
-- [x] c. When a user is logged in, on the homepage of your application, make sure to display their profile picture and name.
-- [x] d. Add a“settings”button and implement the admin portal. Once added:
-    - [x] invite tomer.grinberg@frontegg.com as a user of the tenant.
-    - [x] i. Make sure the user can:
+- [x] a. Following the onboarding,created a basic application in React
+- [x] b. Integrated Front egg into the application. At the end of this the app was integrated with the Frontegg login and authentication model, so users are able to sign-up
+- [x] c. When a user is logged in, on the homepage of this application they are able to display their profile picture and name.
+- [x] d. Added “settings”button and implement the admin portal. Once added:
+    - [x] Provided the ability to invite other users
+    - [x] i. Users can:
         - [x] only view their info *(set users to read only access)*
         - [x] invite other users
         - [x] access audit logs
         - [x] create m2m tokens 
-    - [x] ii. The user should only be able to log in with a Magic Link. *(App is using Magic Code, was experiencing issues issues with Magic Link)*
-
-     #### Extras
-    - [x] Add a functional logout button
+    - [x] ii. user are able to log in with a Magic Code.
+- [x]e. Added a functional logout button
      
   
   
