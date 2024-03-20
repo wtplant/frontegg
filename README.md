@@ -1,6 +1,6 @@
 # frontegg
 
- Frontegg is a "complete user identity and management solutions streamline user management across various identity providers while providing them with a seamless, branded signup and login experience."
+ Frontegg is a "complete user identity and management solution to streamline user management across various identity providers while providing them with a seamless, branded signup and login experience."
  Check out the docs [here](https://docs.frontegg.com/docs/home-page)
 
  ## For this project: 
@@ -22,7 +22,7 @@
         - [x] invite other users
         - [x] access audit logs
         - [x] create m2m tokens 
-    - [x] ii. user are able to log in with a Magic Code.
+    - [x] ii. user are able to log in with Magic Code.
 - [x] e. Added a functional logout button
      
   
