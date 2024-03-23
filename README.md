@@ -1,6 +1,6 @@
 # frontegg
 
- Frontegg is a "complete user identity and management solution to streamline user management across various identity providers while providing them with a seamless, branded signup and login experience."
+ Frontegg, similar [Auth0](https://auth0.com/) is a "complete user identity and management solution to streamline user management across various identity providers while providing them with a seamless, branded signup and login experience."
  Check out the docs [here](https://docs.frontegg.com/docs/home-page)
 
  ## For this project: 
